@@ -56,6 +56,7 @@ Full-stack developer passionate about building real-world apps with modern web t
 ---
 
 ### Featured Projects
+<!--| [docker-learn](https://github.com/ayaz9988/docker-learn) | Learning repo for backend infrastructure: Docker, Swarm, Compose, CI/CD to GHCR |-->
 
 | Project | Description |
 |---------|-------------|
@@ -63,7 +64,6 @@ Full-stack developer passionate about building real-world apps with modern web t
 | [chatup](https://github.com/ayaz9988/chatup) | A MERN stack chat application |
 | [backend_complaints_block_5](https://github.com/ayaz9988/backend_complaints_block_5) | Backend for a complaint platform for a governorate (Express 5, Prisma, PostgreSQL, Redis, Docker) |
 | [e-commerce-nestjs](https://github.com/ayaz9988/e-commerce-nestjs) | E-commerce backend in NestJS with authentication and authorization |
-<!--| [docker-learn](https://github.com/ayaz9988/docker-learn) | Learning repo for backend infrastructure: Docker, Swarm, Compose, CI/CD to GHCR |-->
 | [job-board](https://github.com/ayaz9988/job-board) | Job board application (Express 5, Drizzle, PostgreSQL, better-auth, Zod, Winston) |
 | [virtualoffice](https://github.com/ayaz9988/virtualoffice) | A virtual office web application (Express 4, React, SQLite, Zustand, Zoom SDK) |
 | [goTodoAndAuth](https://github.com/ayaz9988/goTodoAndAuth) | A Todo app with authentication in Go |
@@ -75,8 +75,8 @@ Full-stack developer passionate about building real-world apps with modern web t
 ### Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaz9988)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaz9988)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaz9988@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaz-al-mahmoud)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaz2001aya@gmail.com)
 
 ---
 
