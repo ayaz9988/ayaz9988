@@ -50,7 +50,7 @@ Full-stack developer passionate about building real-world apps with modern web t
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaz9988&theme=tokyonight" />
 </a>
-<br />
+
 ---
 
 ### Featured Projects
