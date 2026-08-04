@@ -54,7 +54,12 @@ Full-stack developer passionate about building real-world apps with modern web t
 ---
 
 ### Featured Projects
-<!--| [docker-learn](https://github.com/ayaz9988/docker-learn) | Learning repo for backend infrastructure: Docker, Swarm, Compose, CI/CD to GHCR |-->
+<!--
+| [docker-learn](https://github.com/ayaz9988/docker-learn) | Learning repo for backend infrastructure: Docker, Swarm, Compose, CI/CD to GHCR |
+| [goTodoAndAuth](https://github.com/ayaz9988/goTodoAndAuth) | A Todo app with authentication in Go |
+| [Job-Lister](https://github.com/ayaz9988/Job-Lister) | A Job Lister built in Vue |
+| [Asssembly-Endgame](https://github.com/ayaz9988/Asssembly-Endgame) | A hangman style game in React |
+-->
 
 | Project | Description |
 |---------|-------------|
@@ -64,9 +69,6 @@ Full-stack developer passionate about building real-world apps with modern web t
 | [e-commerce-nestjs](https://github.com/ayaz9988/e-commerce-nestjs) | E-commerce backend in NestJS with authentication and authorization |
 | [job-board](https://github.com/ayaz9988/job-board) | Job board application (Express 5, Drizzle, PostgreSQL, better-auth, Zod, Winston) |
 | [virtualoffice](https://github.com/ayaz9988/virtualoffice) | A virtual office web application (Express 4, React, SQLite, Zustand, Zoom SDK) |
-| [goTodoAndAuth](https://github.com/ayaz9988/goTodoAndAuth) | A Todo app with authentication in Go |
-| [Job-Lister](https://github.com/ayaz9988/Job-Lister) | A Job Lister built in Vue |
-| [Asssembly-Endgame](https://github.com/ayaz9988/Asssembly-Endgame) | A hangman style game in React |
 
 ---
 
