@@ -45,7 +45,7 @@ Full-stack developer passionate about building real-world apps with modern web t
 ### GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ayaz9988&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=ayaz9988&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaz9988&theme=tokyonight" />
