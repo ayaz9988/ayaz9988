@@ -51,8 +51,6 @@ Full-stack developer passionate about building real-world apps with modern web t
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaz9988&theme=tokyonight" />
 </a>
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz9988&layout=compact&theme=tokyonight" alt="Top Languages" />
-
 ---
 
 ### Featured Projects
@@ -79,10 +77,6 @@ Full-stack developer passionate about building real-world apps with modern web t
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaz2001aya@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayaz9988&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayaz9988&color=0e75b6" alt="Profile views" />
