@@ -71,7 +71,6 @@ Full-stack developer passionate about building real-world apps with modern web t
 | [virtualoffice](https://github.com/ayaz9988/virtualoffice) | A virtual office web application (Express 4, React, SQLite, Zustand, Zoom SDK) |
 
 ---
-
 ### Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaz9988)
@@ -79,7 +78,6 @@ Full-stack developer passionate about building real-world apps with modern web t
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaz2001aya@gmail.com)
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayaz9988&color=0e75b6" alt="Profile views" />
 </p>
